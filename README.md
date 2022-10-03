@@ -40,8 +40,8 @@ Gosto muito de desenvolver e estou aberto à novos aprendizados, buscando aprend
   <img align="center" title="Selenium" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   <img align="center" title="Angular" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
  </div>       
-
 <br>
+
 ### Meus contatos
   
  <div>
