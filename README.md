@@ -3,7 +3,6 @@
 Caso você não me conheça, deixe-me apresentá-lo:
 
 ### Minhas informações
-<br>
 Sou Eduardo Faria, tenho 20 anos e sou de Santa Rita do Sapucaí. Atualmente estou fazendo estágio de **Cyber Security** no Instituto Nacional de Telecomunicações, apelidado por INATEL. 
 
 <br>
