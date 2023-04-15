@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/Eduardo-FCS/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Eduardo-FCS/blob/output/github-contribution-grid-snake.svg)
 
 ## Seja-bem vindo ao meu GitHub! 🤩
 
