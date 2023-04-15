@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/Eduardo-FCS/Eduardo-FCS/blob/output/github-contribution-grid-snake.svg)
-
 ## Seja-bem vindo ao meu GitHub! 🤩
 
 Caso você não me conheça, deixe-me apresentá-lo:
@@ -52,6 +50,8 @@ Gosto muito de desenvolver e estou aberto à novos aprendizados, buscando aprend
   <a href="https://www.instagram.com/du.fariacs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-faria-23405b200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+ 
+ ![Snake animation](https://github.com/Eduardo-FCS/Eduardo-FCS/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Eduardo-FCS/Eduardo-FCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
