@@ -51,6 +51,8 @@ Gosto muito de desenvolver e estou aberto à novos aprendizados, buscando aprend
   <a href="https://www.linkedin.com/in/eduardo-faria-23405b200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
+### Commits
+ 
  ![Snake animation](https://github.com/Eduardo-FCS/Eduardo-FCS/blob/output/github-contribution-grid-snake.svg)
 
 <!--
