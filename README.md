@@ -3,16 +3,14 @@
 Caso você não me conheça, deixe-me apresentá-lo:
 
 ### Minhas informações
-Sou Eduardo Faria, tenho 20 anos e sou de Santa Rita do Sapucaí. Atualmente estou fazendo estágio de **Cyber Security** no Instituto Nacional de Telecomunicações, apelidado por INATEL. 
+Sou Eduardo Faria, tenho 22 anos e sou de Santa Rita do Sapucaí. Atualmente traballho com infraestrutura em docker no Instituto Nacional de Telecomunicações, apelidado por INATEL. 
 
 <br>
 
 ### Conhecendo-me um pouco mais...
  
-- 📚 Estudo atualmente no curso de **Sistemas de Informação** na Universidade do Vale do Sapucaí, vulgo UNIVÁS. A previsão de conclusão de curso é de Dezembro/2023.
-Gosto muito de desenvolver e estou aberto à novos aprendizados, buscando aprendizado e melhoria constante.
-- 🌱 Estou aprendendo atualmente desenvolvimento de API, sua integração com banco de dados relacional (PostgreSQL) e conteinerização com Docker.
-- 🏹 Busco uma vaga de estágio em Desenvolvimento.
+- 📚 Bacharel do curso de **Sistemas de Informação** na Universidade do Vale do Sapucaí, vulgo UNIVÁS. 
+- 🌱 Buscando aprimorar conhecimento principalmente relacionado à conteinerização e construção de APIs.
 - 💬 Estudo e pratico inglês, em busca de novos aprendizados e melhorias diários.
 
 <br>
