@@ -19,13 +19,13 @@ Sou Bacharel em **Sistemas de Informação** pela UNIVÁS - Universidade do Vale
 
 ### Ferramentas e Tecnologias
   
-- SIEM: Wazuh, Splunk, ManageEngine Log360
-- Containers: Docker
-- Cloud: AWS, Huawei Cloud
-- Sistemas: Linux, Windows
-- Redes: Fortigate, Ruckus
-- Segurança Endpoint: Bitdefender, Kaspersky
-- Outros: Git, automação com scripts, redes
+- **SIEM:** Wazuh, Splunk, ManageEngine Log360
+- **Containers:** Docker
+- **Cloud:** AWS, Huawei Cloud
+- **Sistemas:** Linux, Windows
+- **Redes:** Fortigate, Ruckus
+- **Segurança Endpoint:** Bitdefender, Kaspersky
+- **Outros:** Git, automação com scripts, redes
 
 ### Experiência Prática
 
@@ -37,13 +37,6 @@ Sou Bacharel em **Sistemas de Informação** pela UNIVÁS - Universidade do Vale
 ### Contatos
   
  <div>
-  <a href="mailto:eduardofariacaetano100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/du.fariacs/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/eduardo-faria-23405b200/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+  <a href="mailto:efcs.devs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/eduardo-faria-23405b200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ </div>
