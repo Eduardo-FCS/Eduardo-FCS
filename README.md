@@ -1,69 +1,49 @@
-## Seja-bem vindo ao meu GitHub! 🤩
+## Olá, eu sou Eduardo Faria
 
-Caso você não me conheça, deixe-me apresentá-lo:
+Atuo com **Cybersegurança (Blue Team)**, Infraestrutura Virtualizada, Containers e Cloud Computing.
 
-### Minhas informações
-Sou Eduardo Faria, tenho 22 anos e sou de Santa Rita do Sapucaí. Atualmente traballho com infraestrutura em docker no Instituto Nacional de Telecomunicações, apelidado por INATEL. 
-
+Meu foco é construir e manter ambientes seguros, escaláveis e automatizados.
 <br>
 
-### Conhecendo-me um pouco mais...
+### Formação
+
+Sou Bacharel em **Sistemas de Informação** pela UNIVÁS - Universidade do Vale do Sapucaí.
+
+### Especialidades
  
-- 📚 Bacharel do curso de **Sistemas de Informação** na Universidade do Vale do Sapucaí, vulgo UNIVÁS. 
-- 🌱 Buscando aprimorar conhecimento principalmente relacionado à conteinerização e construção de APIs.
-- 💬 Estudo e pratico inglês, em busca de novos aprendizados e melhorias diários.
+- 🔍 Monitoramento e análise de eventos de segurança (SIEM)
+- 🛠️ Hardening de sistemas Linux
+- 📊 Análise de logs e detecção de incidentes
+- 🐳 Segurança em ambientes containerizados
+- 🚨 Resposta a incidentes (nível inicial/intermediário)
 
-<br>
-
-### Algumas estatísticas sobre minha atividade dentro do GitHub
-
-<div align="center">
-  <a href="https://github.com/Eduardo-FCS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-FCS&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-FCS&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-
-<br>
-
-### Algumas linguagens e frameworks que já trabalhei
+### Ferramentas e Tecnologias
   
-<div style="display: inline_block"><br>
-  <img align="center" title="JavaScript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="TypeScript" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="Java 14" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" title="NodeJS" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" title="Visual Studio Code" alt="VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" title="Selenium" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  <img align="center" title="Angular" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
- </div>       
-<br>
+- SIEM: Wazuh, Splunk, ManageEngine Log360
+- Containers: Docker
+- Cloud: AWS, Huawei Cloud
+- Sistemas: Linux, Windows
+- Redes: Fortigate, Ruckus
+- Segurança Endpoint: Bitdefender, Kaspersky
+- Outros: Git, automação com scripts, redes
 
-### Meus contatos
+### Experiência Prática
+
+- Atuação em monitoramento de segurança com SIEM (Wazuh, Splunk)
+- Análise e correlação de logs em ambientes corporativos
+- Hardening e administração de servidores Linux
+- Configuração de redes e dispositivos de segurança (Fortigate, Mikrotik)
+
+### Contatos
   
  <div>
- <br>
-  <a href = "mailto:eduardofariacaetano100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/du.fariacs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-faria-23405b200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:eduardofariacaetano100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/du.fariacs/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/eduardo-faria-23405b200/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
- 
-### Commits
- 
- ![Snake animation](https://github.com/Eduardo-FCS/Eduardo-FCS/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-**Eduardo-FCS/Eduardo-FCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-!-->
